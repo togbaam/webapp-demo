@@ -1,7 +1,4 @@
 streamlit 
 pandas 
 numpy 
-io
-json
-uuid
 duckdb
